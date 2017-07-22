@@ -1,0 +1,7 @@
+/* auto-generated rule */
+div {
+  background-color: #FFEEE
+  foreground-color: #090909
+  color: #090909
+  border-color: #EEFFEE
+}
